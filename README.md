@@ -2,7 +2,7 @@
 
 ### Este é um projeto de visão computacional que utiliza deep learning para detectar pneumonia em imagens de raio-x. A interface foi construída com Streamlit para facilitar as predições.
 
-![Interface do Streamlit](C:/Users/joema/OneDrive/Imagens/Capturas de tela/Screenshot 2025-03-15 160932.png)
+![Interface do Streamlit](imgs/Screenshot 2025-03-15 160932.png)
 
 ## Tecnologias Utilizadas
 - YOLO
