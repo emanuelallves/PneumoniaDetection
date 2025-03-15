@@ -2,7 +2,7 @@
 
 ### Este é um projeto de visão computacional que utiliza deep learning para detectar pneumonia em imagens de raio-x. A interface foi construída com Streamlit para facilitar as predições.
 
-![Interface do streamlit](imgs/inetr.png)
+![Interface do streamlit](./imgs/inter.png)
 
 ## Tecnologias Utilizadas
 - YOLO
@@ -16,7 +16,7 @@
 - Precision: 89%
 - Accuracy: 94%
 - Matriz de confusão:
-![Matriz de confusão](results/Predict_CM.jpg)
+![Matriz de confusão](./results/Predict_CM.jpg)
 
 ## Dataset utilizado
 [dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
