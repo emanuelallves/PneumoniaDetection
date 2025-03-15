@@ -16,7 +16,7 @@
 - Precision: 89%
 - Accuracy: 94%
 - Matriz de confusão:
-![Matriz de confusão](C:/Portfolio/ComputerVision/ImageClassification/pneumonia/Project/results/Predict_CM.jpg)
+![Matriz de confusão](results/Predict_CM.jpg)
 
 ## Dataset utilizado
 [dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
